@@ -592,6 +592,7 @@ public class Pizza extends javax.swing.JFrame {
     private javax.swing.JTextField tamanhoField;
     private javax.swing.JTextArea variavel;
     // End of variables declaration//GEN-END:variables
+   
     String desc;
     int nadicional = 0;
     int nborda = 0;
